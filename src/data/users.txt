@@ -1,0 +1,38 @@
+[
+  {
+    "email": "fin@gmail.com",
+    "firstName": "magui",
+    "lastName": "Llaborde",
+    "password": "11ac973944fd5a3d93be3c1ee0eccf1b:9795bb30d5c8d402058c7231ca3a70ffca0007a680cc96e05297aac1dfbac259a08fa38a2fbdb0c1cd158df04cdc7a49aabc5d65da7bdd516d157db7dad48c18"
+  },
+  {
+    "email": "hola@gmail.com",
+    "firstName": "magui",
+    "lastName": "Llaborde",
+    "password": "84abb50a92fcb8a07fd16505972c8869:a8ca6071b508e928bf385a006c101f246dc9feed62066e8b8264a42e977be610d15990e70567a4b4e5475f4d93e5b500da57d1088fdadce6311b39c3cdb17fbf"
+  },
+  {
+    "email": "labordemagdalena@gmail.com",
+    "firstName": "Magdalena",
+    "lastName": "Laborde",
+    "password": "5914135cd6ab6dfcd41b836df195a059:068faa73bbc494b87e490a4870baeb27cd828f4d3da99b3e8dab282f1da356b79689908768f47c4264e65cf0a3707cf06dc4e15a4f6b4d43977cc8b81fe7a4b2"
+  },
+  {
+    "email": "labordemagdalenaasww@gmail.com",
+    "firstName": "Magdalena",
+    "lastName": "Laborde",
+    "password": "bc91a1e726fa29afdb7292163c1645a6:eb0743562de00ccbddd7d14d052cd0f226a768062ab4b13c529953976689e9be989ee2b5c0decc2086756ec43a61b20d888e22897a744abbb69fddbe59d189df"
+  },
+  {
+    "email": "lmagoprueba@gmail.com",
+    "firstName": "Magdalena",
+    "lastName": "Laborde",
+    "password": "57a79cbaef21cc58304f8293cbb46de5:ca5f0cc863815d416fc9072f9624a52e25f768e77b451e0c38301dcdf47c146ff28c356f57d08542446333feedc3cf59265019b65615c2397f4421db27997654"
+  },
+  {
+    "email": "laborde1122@gmail.com",
+    "firstName": "Magdalena",
+    "lastName": "Laborde",
+    "password": "856097bd012b18517493a7ad210519ba:e7bf7a40e716cf897ada22bac9876354e9d8bb4a81c11bcdfb48dd30dd58dc778310789a77900183437c4bc7e8d8e94d2260e7670819ae21c7bf640531f45694"
+  }
+]

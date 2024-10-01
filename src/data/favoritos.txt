@@ -1,0 +1,44 @@
+[
+  {
+    "id": 881594,
+    "title": "This Is Not a Comedy",
+    "release_date": "2021-10-05",
+    "suggestionScore": 96,
+    "addedAt": "2024-10-01T21:29:21.717Z"
+  },
+  {
+    "id": 1412560,
+    "title": "The Beast of Comedy",
+    "release_date": "2024-01-05",
+    "suggestionScore": 94,
+    "addedAt": "2024-10-01T21:30:55.552Z"
+  },
+  {
+    "id": 1512560,
+    "title": "The Beast of Comedy",
+    "release_date": "2024-01-05",
+    "suggestionScore": 94,
+    "addedAt": "2024-10-01T22:17:18.198Z"
+  },
+  {
+    "id": 15332560,
+    "title": "The Beast of Comedy",
+    "release_date": "2024-01-05",
+    "suggestionScore": 94,
+    "addedAt": "2024-10-01T22:28:41.508Z"
+  },
+  {
+    "id": 238675,
+    "title": "Love Is in the Green Wind",
+    "release_date": "1974-11-23",
+    "suggestionScore": 96,
+    "addedAt": "2024-10-01T23:09:46.668Z"
+  },
+  {
+    "id": 458155,
+    "title": "The Romantic Tourist",
+    "release_date": "2015-04-23",
+    "suggestionScore": 98,
+    "addedAt": "2024-10-01T23:31:41.040Z"
+  }
+]
