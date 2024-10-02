@@ -6,8 +6,11 @@ node.js -> use la version 18
 npm install 
 
 ## para correr 
-en dev: nodemon src/app.js
-o npm start
+- en dev: nodemon src/app.js
+- npm start
+
+#.env:
+completar .env.example con .env (van las claves que utilice en el correo) 
 
 ##algunos ejemplos para postman: 
 
@@ -23,14 +26,15 @@ BODY:   {
 #login
 POST: http://localhost:3004/api/login
 BODY:  {
-    "email": "laborde1122@gmail.com",
-    "password": "*12345*"
+    "email": "",
+    "password": ""
   }
-  AUTHORIZATION
+  
 
   #get movies
   GET: http://localhost:3004/api/getmovies
-
+    AUTHORIZATION
+  
   #fav movies:
   POST : http://localhost:3004/api/favmovies
   BODY: {
